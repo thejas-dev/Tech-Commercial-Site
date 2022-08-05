@@ -5,7 +5,6 @@ import Navbar from './components/inc/Navbar'
 import Home from './components/pages/Home'
 import About from './components/pages/About'
 import Contact from './components/pages/Contact'
-import Services from './components/pages/Services'
 import './App.css'
 
 function App(){
